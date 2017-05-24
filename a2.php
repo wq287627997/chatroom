@@ -1,2 +1,2 @@
 <?php
-echo 'beech';
+echo 'a2';
